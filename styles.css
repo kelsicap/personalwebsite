@@ -1,0 +1,13 @@
+body {
+  background-image:url("19642506_10154485692396783_4888174155376538358_n.jpg");
+  background-attachment: fixed;
+  font-family:"serif",Georgia;
+  color: white;
+  text-align: justify;
+}
+
+content{
+  text-align: justify;
+  color:blue;
+  font-family:monospace;
+}
